@@ -1,0 +1,5 @@
+chainlit
+python-dotenv
+google-generativeai
+websockets
+openai-agents
